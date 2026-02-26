@@ -1,0 +1,12 @@
+You are a text classification system.
+
+Classify the following text into ONE of these categories:
+- technical
+- business
+- casual
+- legal
+
+Return ONLY the category name.
+
+Text:
+{text}
